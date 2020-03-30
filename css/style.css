@@ -1,0 +1,808 @@
+html, body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #F4F4F4;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    background: #F4F4F4;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(145, 143, 143);
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+/*
+margens
+*/
+
+.mt-6 {
+    margin-bottom: 20mm !important;
+}
+
+.mt-8 {
+    margin-bottom: 40mm !important;
+}
+
+.mb-6 {
+    margin-bottom: 20mm !important;
+}
+
+.mb-7 {
+    margin-bottom: 35mm !important;
+}
+
+.mb-8 {
+    margin-bottom: 45mm !important;
+}
+
+nav {
+    background-color: #21C2C0;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.text-store {
+    font-weight: 700;
+    font-size: 16px;
+    color: #ffffff;
+    padding-top: 5.5mm;
+    padding-left: 13%;
+}
+
+.gPlay-nav {
+    width: 40mm;
+}
+
+.iosPlay-nav {
+    width: 33mm;
+    padding-top: 3%;
+    vertical-align: bottom;
+}
+
+/*
+ ---------------------Section One------------------
+*/
+
+#sectionOne {
+    position: static;
+    padding: 10%;
+}
+
+.titulo-home {
+    font-weight: 700;
+    font-size: 40px;
+    color: #404040;
+}
+
+.sub-titulo-home {
+    font-weight: 400;
+    font-size: 22px;
+    color: #707070;
+}
+
+.gPlay {
+    width: 55mm;
+    margin-left: -5%;
+}
+
+.iosPlay {
+    width: 45mm;
+    padding-top: 5%;
+    margin-left: -28%;
+    vertical-align: bottom;
+}
+
+.plataforma {
+    display: inline-block;
+}
+
+.smart {
+    width: 75%;
+    top: -25px;
+    position: absolute;
+    z-index: -2
+}
+
+
+/*
+ ---------------------Section Two------------------
+*/
+
+#sectionTwo {
+    background: url(../img/bg-teste.svg);
+    position: static;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    box-sizing: content-box;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 18% 10% 10% 10%;
+}
+
+.titulo-st {
+    font-weight: 700;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.sub-titulo-st {
+    font-weight: 400;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+
+.btn-outline-primary-T {
+    color: #ffffff;
+    border-color: #ffffff;
+    border-radius: 10px;
+    width: 100mm;
+    padding: 2% 0% 2% 0%;
+    display: block;
+    margin: auto;
+}
+
+.btn-outline-primary-T:hover {
+    background-color: #21C2C0;;
+    color: white;
+    border-color: #21C2C0;;
+}
+
+
+/*
+ ---------------------Section Three------------------
+*/
+
+#sectionthree {
+    background: url(../img/bg_s_three.svg)50%;
+    position: static;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    box-sizing: content-box;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 10%;
+}
+
+.titulo-sthree {
+    font-weight: 600;
+    font-size: 33px;
+    color: #404040;
+}
+
+.sub-titulo-sthree {
+    font-weight: 400;
+    font-size: 19px;
+    color: #404040;
+}
+
+.asterisco {
+    width: 80%;
+}
+
+.recognition {
+    width: 50%;
+}
+
+.btn-outline-primary {
+    color: #707070;
+    border-color: #707070;
+    border-radius: 10px;
+    padding: 2% 6% 2% 6%;
+}
+
+.btn-outline-primary:hover {
+    background-color: #21C2C0;;
+    color: white;
+    border-color: #21C2C0;;
+}
+
+
+
+
+
+/*
+ ---------------------Section Four------------------
+*/
+
+#sectionfour {
+    background-color: #FAFAFA;
+    position: static;
+    background-repeat: no-repeat;
+    padding: 5%;
+}
+
+.titulo-sf {
+    font-weight: 700;
+    font-size: 25px;
+    color: #404040;
+}
+
+/*---slide---*/
+
+.faturas, .r-problema, .g-imovel, .ad-solicitacao, .autoleitura, .i-pagamento, .g-consumo, .religa, .m-titularidade, .p-atendimento, .c-contato, .s-consumo {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.sub-titulo-serv {
+    font-weight: 400;
+    font-size: 4.27mm;
+}
+
+.icons {
+    width: 60px;
+    margin-left: 68%;
+}
+
+.faturas {
+    color: #77C65B;
+}
+
+.r-problema {
+    color: #A82743;
+}
+
+.g-imovel {
+    color: #009FC2;
+}
+
+.ad-solicitacao {
+    color: #04A6A6;
+}
+
+.autoleitura {
+    color: #FAAE47;
+}
+
+.i-pagamento {
+    color: #5F817E;
+}
+
+.g-consumo {
+    color: #354753;
+}
+
+.religa {
+    color: #E97945;
+}
+
+.m-titularidade {
+    color: #425A9A;
+}
+
+.p-atendimento {
+    color: #2082B6;
+}
+
+.c-contato {
+    color: #976DD0;
+}
+
+.s-consumo {
+    color: #36C0F1;
+}
+
+.carousel-item.active {
+    display: block;
+    margin-left: -2%;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/Icon-ionic-ios-arrow-forward01.svg);
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/Icon\ ionic-ios-arrow-forward02.svg);
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 20px;
+    height: 50px;
+    background-size: 100% 100%;
+}
+
+.carousel-indicators {
+    position: static;
+    right: 0;
+    bottom: 200px;
+    left: 0;
+    z-index: 15;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 95%;
+    overflow: hidden;
+}
+
+.carousel-indicators li {
+    /* position: relative; */
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 15px;
+    height: 15px;
+    border-radius: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    background-color: rgba(109, 109, 109, 0.5);
+}
+
+.carousel-indicators .active {
+    border-width: 0.8mm;
+    border-style: solid;
+    background-color: white;
+    color: #989898;
+}
+
+/*
+ ---------------------Section Five------------------
+*/
+
+#sectionFive {
+    background-color: #ffffff;
+    position: static;
+    background-repeat: no-repeat;
+    padding: 10%;
+}
+
+.titulo-Fv {
+    font-weight: 700;
+    font-size: 25px;
+    color: #404040;
+}
+
+.sub-titulo-Fv {
+    font-weight: 400;
+    font-size: 18px;
+    color: #404040;
+}
+
+.gPlay-Fv {
+    width: 55mm;
+    margin-left: 21%;
+}
+
+.iosPlay-Fv {
+    width: 45mm;
+    padding-top: 5%;
+    margin-left: 2%;
+    vertical-align: bottom;
+}
+
+.plataforma-Fv {
+    display: inline-block;
+}
+
+/*
+ ---------------------Footer------------------
+*/
+
+footer {
+    background-color: #21C2C0;
+    font-weight: 600;
+    color: white;
+    height: auto;
+}
+
+.energisa {
+    width: 32mm;
+    padding: 20% 0% 3% 0%;
+}
+
+.p-rodape {
+    font-weight: 700;
+    font-size: 15px;
+    padding: 3% 0% 3% 6%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1080px) and (max-width: 1024px) {
+
+
+    /*
+ ---------------------Section One------------------
+*/
+
+    #sectionOne {
+        position: static;
+        padding: 20% 5% 100% 5%;
+    }
+    
+    .titulo-home {
+        font-weight: 700;
+        font-size: 28px;
+        color: #404040;
+    }
+    
+    .sub-titulo-home {
+        font-weight: 400;
+        font-size: 4mm;
+        color: #707070;
+    }
+    
+    .gPlay {
+        width: 55mm;
+        display: block;
+        margin: auto;
+    }
+    
+    .iosPlay {
+        width: 45mm;
+        display: block;
+        margin: auto;
+    }
+    
+    .plataforma {
+        display: inline-block;
+    }
+    
+    .smart {
+        width: 60%;
+        position: absolute;
+        top: 90mm;
+        left: 19%;
+        margin: auto;
+        display: block;
+        z-index: -2
+    }
+
+
+/*
+ ---------------------Section Two------------------
+*/
+
+#sectionTwo {
+    background: url(../img/bg-teste.svg)70%;
+    position: static;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    box-sizing: content-box;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 18% 5% 5% 5%;
+}
+
+.titulo-st {
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.sub-titulo-st {
+    font-weight: 400;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.btn-outline-primary-T {
+    font-size: 3.5mm;
+    color: #ffffff;
+    border-color: #ffffff;
+    border-radius: 10px;
+    width: 69mm;
+    padding: 4% 4% 4% 4%;
+    display: block;
+    margin: auto;
+}
+
+.btn-outline-primary-T:hover {
+    background-color: #21C2C0;;
+    color: white;
+    border-color: #21C2C0;;
+}
+
+/*
+ ---------------------Section Three------------------
+*/
+
+#sectionthree {
+    background: url(../img/bg_s_three.svg)50%;
+    position: static;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    box-sizing: content-box;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 10%;
+}
+
+.titulo-sthree {
+    font-weight: 600;
+    font-size: 20px;
+    color: #404040;
+}
+
+.sub-titulo-sthree {
+    font-weight: 400;
+    font-size: 13px;
+    color: #404040;
+}
+
+.asterisco {
+    width: 45%;
+}
+
+.recognition {
+    width: 25%;
+}
+
+.btn-outline-primary {
+    font-size: 2.80mm;
+    color: #707070;
+    border-color: #707070;
+    border-radius: 8px;
+    padding: 3% 8% 3% 8%;
+}
+
+.btn-outline-primary:hover {
+    background-color: #21C2C0;;
+    color: white;
+    border-color: #21C2C0;;
+}
+
+
+    /*
+ ---------------------Section Four------------------
+*/
+
+#sectionfour {
+    background-color: #FAFAFA;
+    position: static;
+    background-repeat: no-repeat;
+    padding: 5%;
+}
+
+.titulo-sf {
+    font-weight: 700;
+    font-size: 20px;
+    color: #404040;
+}
+
+/*---slide---*/
+
+.faturas, .r-problema, .g-imovel, .ad-solicitacao, .autoleitura, .i-pagamento, .g-consumo, .religa, .m-titularidade, .p-atendimento, .c-contato, .s-consumo {
+    font-weight: 700;
+    font-size: 13px;
+}
+
+.sub-titulo-serv {
+    font-weight: 400;
+    font-size: 3.5mm;
+}
+
+.icons {
+    width: 40px;
+    margin-left: 2%;
+}
+
+.faturas {
+    color: #77C65B;
+}
+
+.r-problema {
+    color: #A82743;
+}
+
+.g-imovel {
+    color: #009FC2;
+}
+
+.ad-solicitacao {
+    color: #04A6A6;
+}
+
+.autoleitura {
+    color: #FAAE47;
+}
+
+.i-pagamento {
+    color: #5F817E;
+}
+
+.g-consumo {
+    color: #354753;
+}
+
+.religa {
+    color: #E97945;
+}
+
+.m-titularidade {
+    color: #425A9A;
+}
+
+.p-atendimento {
+    color: #2082B6;
+}
+
+.c-contato {
+    color: #976DD0;
+}
+
+.s-consumo {
+    color: #36C0F1;
+}
+
+.carousel-item.active {
+    display: block;
+    margin-left: -2%;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/Icon-ionic-ios-arrow-forward01.svg);
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/Icon\ ionic-ios-arrow-forward02.svg);
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 20px;
+    height: 50px;
+    background-size: 100% 100%;
+}
+
+.carousel-indicators {
+    position: static;
+    right: 0;
+    bottom: 200px;
+    left: 0;
+    z-index: 15;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 95%;
+    overflow: hidden;
+}
+
+.carousel-indicators li {
+    /* position: relative; */
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 15px;
+    height: 15px;
+    border-radius: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    background-color: rgba(109, 109, 109, 0.5);
+}
+
+.carousel-indicators .active {
+    border-width: 0.8mm;
+    border-style: solid;
+    background-color: white;
+    color: #989898;
+}
+
+
+    /*
+ ---------------------sectionFive------------------
+*/
+    #sectionFive {
+        background-color: #ffffff;
+        position: static;
+        background-repeat: no-repeat;
+        padding: 5%;
+    }
+    .titulo-Fv {
+        font-weight: 700;
+        font-size: 15px;
+        color: #404040;
+    }
+    .sub-titulo-Fv {
+        font-weight: 400;
+        font-size: 15px;
+        color: #404040;
+    }
+    .gPlay-Fv {
+        width: 55mm;
+        display: block;
+        margin: auto;
+    }
+    .iosPlay-Fv {
+        width: 45mm;
+        display: block;
+        margin: auto;
+    }
+    .plataforma-Fv {
+        margin-top: 5mm;
+        margin-bottom: 10mm;
+    }
+    /*
+ ---------------------Footer------------------
+
+ 
+*/
+ 
+    .p-rodape {
+        font-weight: 700;
+        font-size: 9px;
+        padding: 3% 0% 3% 3%;
+    }
+    .p-rodape-mob {
+        font-weight: 700;
+        font-size: 12px;
+        text-align: center;
+    }
+    .footer-mob {
+        background-color: #20B1AF;
+    }
+    
+    .energisa-mob {
+        width: 32mm;
+        display: block;
+        margin: auto;
+        padding: 4% 0% 4% 0%;
+    }
+    .hide-pad {
+        display: none;
+    }
+}
+

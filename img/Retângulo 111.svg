@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="526" height="840" viewBox="0 0 526 840">
+  <defs>
+    <filter id="Retângulo_111" x="0" y="0" width="526" height="840" filterUnits="userSpaceOnUse">
+      <feOffset dy="53" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Retângulo_111)">
+    <rect id="Retângulo_111-2" data-name="Retângulo 111" width="430" height="739" rx="57" transform="translate(48)" fill="#e5e5e5"/>
+  </g>
+</svg>
