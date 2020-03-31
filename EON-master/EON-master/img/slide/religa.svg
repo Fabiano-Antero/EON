@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="97" viewBox="0 0 97 97">
+  <g id="religa" transform="translate(1825 -4669)">
+    <rect id="Retângulo_113" data-name="Retângulo 113" width="97" height="97" rx="21" transform="translate(-1825 4669)" fill="#e97945"/>
+    <g id="light" transform="translate(527 134)">
+      <path id="Fill_320" data-name="Fill 320" d="M8.711,6.733a1.681,1.681,0,0,0-1.344-.679H4.908L6.087,3.018a1.681,1.681,0,0,0-2.43-1.927,1.654,1.654,0,0,0-.793,1L1.044,7.27A1.681,1.681,0,0,0,2.656,9.41H5.085l-1.5,3.842a1.653,1.653,0,0,0,.127,1.277,1.681,1.681,0,0,0,3.081-.3L8.965,8.212A1.69,1.69,0,0,0,8.711,6.733Z" transform="translate(-2308.375 4566.121)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Stroke_318" data-name="Stroke 318" d="M17.6,1C7.357.993,1,8.617,1,18.506c0,5.437,3.9,10.278,7.586,13.487,1.566,1.365,1.8,3.344,1.8,5.42v.366a.829.829,0,0,0,.805.85H23.983a.829.829,0,0,0,.805-.85v-.366c0-2.08.234-4.061,1.8-5.424,3.686-3.209,7.6-8.065,7.6-13.5C34.192,8.6,27.839.993,17.6,1Z" transform="translate(-2321 4557)" fill="none" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Stroke_319" data-name="Stroke 319" d="M10.028,9.1H6.807A5.594,5.594,0,0,1,1.213,3.509,1.609,1.609,0,0,1,2.825,1.9H14.009A1.609,1.609,0,0,1,15.62,3.509,5.594,5.594,0,0,1,10.028,9.1Z" transform="translate(-2312.209 4599.315)" fill="none" stroke="#fff" stroke-width="1.974" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

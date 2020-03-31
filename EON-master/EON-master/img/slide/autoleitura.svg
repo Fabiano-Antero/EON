@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="97" viewBox="0 0 97 97">
+  <g id="autpleitura" transform="translate(-204 -4701)">
+    <rect id="Retângulo_117" data-name="Retângulo 117" width="97" height="97" rx="21" transform="translate(204 4701)" fill="#faae47"/>
+    <g id="Leitura" transform="translate(2278 696.712)">
+      <g id="icon-historico" transform="translate(-2047 4028)">
+        <path id="Caminho_2151" data-name="Caminho 2151" d="M21.9,0A21.9,21.9,0,1,0,43.8,21.9,21.9,21.9,0,0,0,21.9,0Zm0,2.857A19.043,19.043,0,1,1,2.857,21.9,19.043,19.043,0,0,1,21.9,2.857Z" fill="#fff" fill-rule="evenodd"/>
+        <path id="Fill_320" data-name="Fill 320" d="M8.474,6.545a1.632,1.632,0,0,0-1.3-.657H4.79L5.926,2.95A1.622,1.622,0,0,0,3.577,1.085a1.6,1.6,0,0,0-.769.965L1.043,7.064a1.622,1.622,0,0,0,1.564,2.07H4.961l-1.45,3.718a1.6,1.6,0,0,0,.123,1.236A1.632,1.632,0,0,0,6.622,13.8L8.731,7.977A1.632,1.632,0,0,0,8.474,6.545Z" transform="translate(16.864 23.67)" fill="#fff" fill-rule="evenodd"/>
+        <g id="Retângulo_1977" data-name="Retângulo 1977" transform="translate(6 11.288)" fill="none" stroke="#fff" stroke-width="2">
+          <rect width="31" height="11" stroke="none"/>
+          <rect x="1" y="1" width="29" height="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Subtração_1" data-name="Subtração 1" transform="translate(-2040.512 4062.212)">
+        <path id="Caminho_2156" data-name="Caminho 2156" d="M33.2,39.166H5.622A1.622,1.622,0,0,1,4,37.544V23.09a19.791,19.791,0,0,0,15.411,7.949A19.791,19.791,0,0,0,34.822,23.09V37.544A1.622,1.622,0,0,1,33.2,39.166Z" transform="translate(-3.999 -23.09)" fill="none"/>
+        <path id="Caminho_2157" data-name="Caminho 2157" d="M32.389,36.733V28.894a21.028,21.028,0,0,1-12.978,4.574A21.028,21.028,0,0,1,6.433,28.894v7.838H32.389m.81,2.433H5.623A1.625,1.625,0,0,1,4,37.544V23.091c4.128,5.123,9.6,7.944,15.412,7.944s11.283-2.821,15.412-7.944V37.544A1.625,1.625,0,0,1,33.2,39.166Z" transform="translate(-4 -23.089)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -114,8 +114,16 @@ nav {
 }
 
 .smart {
-    width: 75%;
+    width: 100%;
     top: -25px;
+    left: -200px;
+    position: absolute;
+    z-index: -2
+}
+.smart2 {
+    width: 100%;
+    top: -25px;
+    left: 120px;
     position: absolute;
     z-index: -2
 }
