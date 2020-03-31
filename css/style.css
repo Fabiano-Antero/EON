@@ -116,17 +116,10 @@ nav {
 .smart {
     width: 100%;
     top: -25px;
-    left: -200px;
     position: absolute;
     z-index: -2
 }
-.smart2 {
-    width: 100%;
-    top: -25px;
-    left: 120px;
-    position: absolute;
-    z-index: -2
-}
+
 
 
 /*
@@ -463,13 +456,14 @@ footer {
 
     #sectionOne {
         position: static;
-        padding: 20% 5% 100% 5%;
+        padding: 20% 10% 100% 10%;
     }
     
     .titulo-home {
         font-weight: 700;
         font-size: 28px;
         color: #404040;
+        
     }
     
     .sub-titulo-home {
@@ -495,10 +489,10 @@ footer {
     }
     
     .smart {
-        width: 60%;
+        width: 100%;
         position: absolute;
         top: 90mm;
-        left: 19%;
+       left: -3%;
         margin: auto;
         display: block;
         z-index: -2
