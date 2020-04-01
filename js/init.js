@@ -50,6 +50,18 @@ $w.on("scroll", function () {
 });
 
 
+
+
+  
+  setTimeout(function () {
+      var banner = $('#scroll');
+      banner.addClass('hide');
+      
+    
+  }, 5000);
+
+
+
 function getMoib() {
 
   let userAgent = navigator.userAgent || navigator.vendor || window.opera;
