@@ -152,7 +152,11 @@ nav {
     color: #ffffff;
 }
 
-
+video{
+    
+    width: 534xp;
+    height: auto;
+}
 .btn-outline-primary-T {
     color: #ffffff;
     border-color: #ffffff;
@@ -543,6 +547,11 @@ footer {
     background-color: #21C2C0;;
     color: white;
     border-color: #21C2C0;;
+}
+
+video{
+    width: 90%;
+    height: auto;
 }
 
 /*
