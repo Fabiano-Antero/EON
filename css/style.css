@@ -491,13 +491,12 @@ footer {
     .smart {
         width: 100%;
         position: absolute;
-        top: 90mm;
-       left: -3%;
+        top: 78.5mm;
+        left: -3%;
         margin: auto;
         display: block;
-        z-index: -2
+        z-index: -2;
     }
-
 
 /*
  ---------------------Section Two------------------
