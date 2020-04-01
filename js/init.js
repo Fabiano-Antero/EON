@@ -1,3 +1,5 @@
+//Animação fade
+
 AOS.init(
   {
     useClassNames: false,
@@ -7,6 +9,7 @@ AOS.init(
   }
 );
 
+// rolagem suave
 
 $(document).ready(function () {
 
@@ -32,6 +35,7 @@ $(document).ready(function () {
 });
 
 
+// navbar
 
 var $w = $(window);
 
@@ -49,18 +53,7 @@ $w.on("scroll", function () {
   }, 1000);
 });
 
-
-
-
-  
-  setTimeout(function () {
-      var banner = $('#scroll');
-      banner.addClass('hide');
-      
-    
-  }, 5000);
-
-
+// Verifica qual sistema acessa o site
 
 function getMoib() {
 
