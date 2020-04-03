@@ -248,6 +248,18 @@ video{
 
 /*---slide---*/
 
+.badge {
+    display: inline-block;
+    padding: 0.50em .8em;
+    font-size: 60%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 1.25rem;
+}
+
 .faturas, .r-problema, .g-imovel, .ad-solicitacao, .autoleitura, .i-pagamento, .g-consumo, .religa, .m-titularidade, .p-atendimento, .c-contato, .s-consumo {
     font-weight: 700;
     font-size: 18px;
