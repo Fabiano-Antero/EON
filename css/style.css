@@ -117,7 +117,7 @@ nav {
     width: 100%;
     top: -25px;
     position: absolute;
-    z-index: -2
+    z-index: -2;
 }
 
 
@@ -450,6 +450,122 @@ footer {
 }
 
 
+/*Ipad-pro*/
+@media screen and (min-width: 1024px) and (max-width: 1028px){
+
+ 
+    #sectionOne {
+        position: static !important;
+        padding: 10% 10% 19% 10% !important;
+    } 
+    .titulo-home {
+        font-weight: 700 !important;
+        font-size: 30px !important;
+        color: #404040 !important;
+        
+    }
+    
+    .sub-titulo-home {
+        font-weight: 400 !important;
+        font-size: 5mm !important;
+        color: #707070 ;
+    }
+    
+    .gPlay {
+        width: 55mm;
+        display: block;
+        margin: auto;
+    }
+    
+    .iosPlay {
+        width: 45mm;
+        display: block;
+        margin: auto;
+    }
+    
+    .plataforma {
+        display: inline-block;
+    }
+    
+    .smart {
+        width: 100% !important;
+        position: absolute !important;
+        top: 10mm !important;
+        left: -3% !important;
+        margin: auto !important;
+        display: block !important;
+        z-index: -2 !important;
+    }
+
+
+    /*Ícone do store ultima section*/
+    .iosPlay-Fv {
+        width: 45mm;
+        padding-top: 5%;
+        margin-left: -12% !important;
+        vertical-align: bottom;
+    }
+
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1020px){
+
+    
+    #sectionOne {
+        position: static !important;
+        padding: 10% !important;
+    } 
+    .titulo-home {
+        font-weight: 700 !important;
+        font-size: 28px !important;
+        color: #404040 !important;
+        
+    }
+    
+    .sub-titulo-home {
+        font-weight: 400 !important;
+        font-size: 4mm !important;
+        color: #707070 ;
+    }
+    
+    .gPlay {
+        width: 55mm;
+        display: block;
+        margin: auto;
+    }
+    
+    .iosPlay {
+        width: 45mm;
+        display: block;
+        margin: auto;
+    }
+    
+    .plataforma {
+        display: inline-block;
+    }
+    
+    .smart {
+        width: 100% !important;
+        position: absolute !important;
+        top: 10mm !important;
+        left: -3% !important;
+        margin: auto !important;
+        display: block !important;
+        z-index: -2 !important;
+    }
+
+
+    /*Ícone do store ultima section*/
+    .iosPlay-Fv {
+        width: 45mm;
+        padding-top: 5%;
+        margin-left: -12% !important;
+        vertical-align: bottom;
+    }
+
+}
 
 
 
@@ -461,9 +577,7 @@ footer {
 
 
 
-
-
-@media screen and (max-width: 1080px) and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
 
 
     /*
